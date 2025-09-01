@@ -48,7 +48,7 @@ It combines **data preprocessing, exploratory data analysis (EDA), and regressio
 ## 🛠️ Installation & Usage
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/air-quality-prediction.git
+   git [clone https://github.com/yourusername/air-quality-prediction.git](https://github.com/Shadinbm/Indian-AQI-Analysis.git)
    cd air-quality-prediction
 Install dependencies
 
